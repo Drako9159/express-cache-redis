@@ -1,16 +1,16 @@
 {
-  "name": "express-typescript-service-template",
+  "name": "asstream-api-channel",
   "version": "1.0.0",
-  "description": "Skeleton for new typescript services based on express",
-  "author": "alberthernandezdev@gmail.com",
+  "description": "Management Api for the Roku channel AsStream",
+  "author": "antonio.jar.dev@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlbertHernandez/express-typescript-service-template/issues"
+    "url": "https://github.com/"
   },
-  "homepage": "https://github.com/AlbertHernandez/express-typescript-service-template#readme",
+  "homepage": "https://github.com/",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlbertHernandez/express-typescript-service-template.git"
+    "url": "git+https://github.com/"
   },
   "keywords": [
     "typescript",
