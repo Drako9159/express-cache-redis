@@ -1,6 +1,6 @@
 
 
-## 🌟 What is including this template?
+## 🌟 What is including?
 
 1. 🐳 Fully dockerized service ready for development and production environments with the best practices for docker, trying to provide a performance and small image just with the code we really need in your environments.
 2. 👷 Use [SWC](https://swc.rs/) for compiling and running the tests of the service.
