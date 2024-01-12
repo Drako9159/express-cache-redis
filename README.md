@@ -1,27 +1,4 @@
-<p align="center">
-  <a href="https://expressjs.com/" target="blank"><img src="images/express-and-ts.png" alt="Express Logo" width="512" /></a>
-</p>
 
-<h1 align="center">⭐ Express Typescript Service Template ⭐</h1>
-
-<p align="center">
-  Template for new services based on Express and Typescript with the Best Practices and Ready for Production
-</p>
-
-<p align="center">
-  <a href="https://github.com/AlbertHernandez/express-typescript-service-template/actions/workflows/node.yml?branch=main"><img src="https://github.com/AlbertHernandez/express-typescript-service-template/actions/workflows/node.yml/badge.svg?branch=main" alt="nodejs"/></a>
-  <a href="https://nodejs.org/docs/latest-v20.x/api/index.html"><img src="https://img.shields.io/badge/node-20.x-green.svg" alt="node"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/typescript-5.x-blue.svg" alt="typescript"/></a>
-  <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-10.x-red.svg" alt="npm"/></a>
-  <a href="https://swc.rs/"><img src="https://img.shields.io/badge/Compiler-SWC_-orange.svg" alt="swc"/></a>
-  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Dockerized 🐳_-blue.svg" alt="docker"/></a>
-</p>
-
-## 👀 Motivation
-
-Starting a new service in NodeJS can be a bit frustrating, there are a lot of things to consider if we want to have a really good starting point where later we can iterate.
-
-The main objective of this template is to provide a good base configuration for our NodeJS services that we can start using and move to production as soon as possible.
 
 ## 🌟 What is including this template?
 
