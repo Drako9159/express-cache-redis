@@ -1,17 +1,9 @@
 {
-  "name": "asstream-api-channel",
+  "name": "express-cache-redis",
   "version": "1.0.0",
   "description": "Management Api for the Roku channel AsStream",
   "author": "antonio.jar.dev@gmail.com",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/"
-  },
-  "homepage": "https://github.com/",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/"
-  },
   "keywords": [
     "typescript",
     "express",
